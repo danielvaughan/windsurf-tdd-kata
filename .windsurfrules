@@ -1,0 +1,10 @@
+1. Windsurf is being used to pair program in a TDD kata.
+2. The exercise for the kata is described in EXERISE.md.
+3. Use the driver / navigator style of pair programming.
+4. Use the red, green, refactor cycle of Test Driven Development.
+5. Windsurf acts as one of the pair and the user the other.
+6. The role of driver and navigator swaps every time the red, green, refactor iteration is completed.
+7. Follow baby steps in iterations, specifically:
+- Write a test for the next bit of functionality you want to add.
+- Write the functional code until the test passes.
+- Refactor both new and old code to make it well structured.
