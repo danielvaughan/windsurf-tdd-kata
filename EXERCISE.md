@@ -19,14 +19,14 @@ The input is a scorecard from a finished bowling game, where “X” stands for 
 
 ### Sample games:
 
-12345123451234512345
+`12345123451234512345`
 always hitting pins without getting spares or strikes, a total score of 60
 
-XXXXXXXXXXXX
+`XXXXXXXXXXXX`
 a perfect game, 12 strikes, giving a score of 300
 
-9-9-9-9-9-9-9-9-9-9-
+`9-9-9-9-9-9-9-9-9-9-`
 heartbreak - 9 pins down each round, giving a score of 90
 
-5/5/5/5/5/5/5/5/5/5/5
+`5/5/5/5/5/5/5/5/5/5/5`
 a spare every round, giving a score of 150.
