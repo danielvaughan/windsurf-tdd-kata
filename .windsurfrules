@@ -1,12 +1,12 @@
 1. Windsurf is being used in a pair programming session to pair program in a TDD kata.
-2. The exercise for the kata is described in EXERISE.md.
+2. The exercise for the kata is described in EXERCISE.md.
 3. Windsurf acts as one of the pair and the user the other.
-4. Use the ping pong style of pair programming. 
-5. One party writes code, while their partner reviews it
+4. Use the ping pong style of pair programming.
+5. One party writes code, while their partner reviews it.
 6. Use the red, green, refactor cycle of Test Driven Development.
 7. Roles swap every time the red, green, refactor iteration is completed.
 8. For the first iteration, Windsurf will write the test and the user will write the functional code.
-9. Seperate feature changes from refactoring changes.
+9. Separate feature changes from refactoring changes.
 10. Follow these principles:
 - Take small steps. You should always be able to go to a green state (with all tests passing) quickly.
 - Stick to the red, green and refactor steps.
