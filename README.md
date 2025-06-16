@@ -11,7 +11,7 @@ The exercise is the bowling game kata and it is described in the [EXERCISE.md](E
 To take part in this workshop you will first need to:
 
 * Download and install the latest version of Windsurf Editor for you machine from [https://windsurf.com/download](https://windsurf.com/download).
-* Email your personal email address to be added to a paid Windsurf account.
+* To be temporally added to a paid Windsurf Enterprise account please complete [this form](https://forms.gle/z5gGPxxU7Gv2TEtd8) although using Windsurf in trial mode may be sufficient.
 * Clone this repository to your machine using `git clone https://github.com/danielvaughan/windsurf-tdd-kata`.
 * Launch the Windsurf editor and open the cloned project.
 
