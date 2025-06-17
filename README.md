@@ -49,7 +49,7 @@ All being well, LLMs are non-deterministic after all, Windsurf will set up the p
 ### What Should Work Well
 
 * Well know languages e.g. Java
-* Well know test frameworks e.g. JUnit
+* Well know test frameworks, e.g. JUnit
 * Well know dependencies e.g. Spring Boot
 
 ### What May Not Work Well
