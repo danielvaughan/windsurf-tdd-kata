@@ -44,6 +44,7 @@ All being well, LLMs are non-deterministic after all, Windsurf will set up the p
 ## Recommendations
 
 * Turn off autocomplete or Windsurf
+* Experiment with asking for help in the chat?
 
 ### What Should Work Well
 
