@@ -36,7 +36,7 @@ There is also the option to select from a list of models. For this exercise, mak
 In the Write prompt box, ask Windsurf to create a new project using your chosen programming language and test framework. For example, here I am using Java 21 and Junit.
 
 ```text
-Create a new project to use to solve the Kata using Java 21 and Junit 5
+Solve the exercise using Java 21 and Junit 5
 ```
 
 All being well, LLMs are non-deterministic after all, Windsurf will set up the project and create a failing test for the exercise.
