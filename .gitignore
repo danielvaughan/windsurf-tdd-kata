@@ -21,3 +21,4 @@ log/
 
 # Specific to this project
 .gemini/
+/.m2/

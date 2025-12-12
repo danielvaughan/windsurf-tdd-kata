@@ -1,0 +1,5 @@
+- [x] Cycle 1: score 0 for a gutter game (all misses)
+- [x] Cycle 2: accumulate simple pinfalls with no bonuses
+- [x] Cycle 3: score a spare with correct bonus
+- [x] Cycle 4: score a strike with correct bonuses
+- [x] Cycle 5: verify all sample scorecards and tidy structure
