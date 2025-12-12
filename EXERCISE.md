@@ -33,4 +33,4 @@ a spare every round, giving a score of 150.
 
 ### Summary
 
-You must provide a summary of your solution in a file named SOUTIONS.md including how to run it.
+You must provide a summary of your solution in a file named SOUTION.md including how to run it.
