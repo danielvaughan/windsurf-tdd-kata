@@ -1,0 +1,23 @@
+# Maven
+target/
+.idea/
+*.iml
+.windsurfrules
+.claude/
+
+# Logs
+*.log
+log/
+
+# IDE-specific files
+.vscode/
+.DS_Store
+.history
+
+# OS generated files
+.classpath
+.project
+.settings/
+
+# Specific to this project
+.gemini/
